@@ -2,10 +2,11 @@
 By Hoang Huy Hoang, UET-VNU, Vietnam
 - Main features:
   + Control of 1 220V-AC electric device 
-  + Display current time (hour, minute, day, month, year)
-  + Set time for turning the device on / off (6 slots)
+  + Display current time (hour, minute, day, month, year) and set times (**Vietnamese**)
+  + Set time for the RTC in case it runs fast or slow via buttons and LCD
+  + Set times for turning the device on / off (6 times) via buttons and LCD
   + Manual control of the device via the touch sensor
-  + Set time for the RTC in case it runs fast or slow
+  
   
   
 - System overview:
