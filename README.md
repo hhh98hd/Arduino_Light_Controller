@@ -37,7 +37,7 @@ By Hoang Huy Hoang, UET-VNU, Vietnam
       **////////** indicates that the slot is empty
       **Notice the slot with cursor is the currently selected slot**
       
-    ![alt text](/image72294810_2484676048470748_8924680477579673600_n.jpg)
+    ![alt text](/image/72294810_2484676048470748_8924680477579673600_n.jpg)
     
     + Setting time for the selected slot. At 0:00 the device will be turned off
       The cursor is at HUY (cancel). Actually it has 2 options: OK and HUY
