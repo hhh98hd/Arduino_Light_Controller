@@ -25,5 +25,10 @@ By Hoang Huy Hoang, UET-VNU, Vietnam
   ![alt text](/image/72321272_2384129848571660_1293922433371209728_n.jpg)
   
   - Some images:
-    + 2 modes (Set RTC and set on/off times)
+    + 2 modes (Set RTC and set on/off times). **Notice the curson**
+    
     ![alt text](/image/72232460_2282617761864821_3378212397889093632_n.jpg)
+    
+    + Setting time for the RTC. **Notice the cursor**
+    
+    ![alt text](/image/72705294_1021482451516088_3364614376811134976_n.jpg)
