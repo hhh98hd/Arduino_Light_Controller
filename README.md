@@ -19,4 +19,4 @@ By Hoang Huy Hoang, UET-VNU, Vietnam
   + TP223 Touch Sensor
   + 5V Relay
   
-  ![alt text](/home/hoanghh/Desktop/72321272_2384129848571660_1293922433371209728_n.jpg)
+  ![alt text](/image/72321272_2384129848571660_1293922433371209728_n.jpg)
