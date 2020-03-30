@@ -7,7 +7,9 @@ By Hoang Huy Hoang, UET-VNU, Vietnam
   + Manual control of the device via the touch sensor
   + Set time for the RTC in case it runs fast or slow
   
+  
 - System overview:
+
 ![alt text](/image/72751413_1179619482242045_8107323517973823488_n.jpg)
 
 - Components used:
