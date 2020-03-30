@@ -23,3 +23,7 @@ By Hoang Huy Hoang, UET-VNU, Vietnam
   + 5V Relay
   
   ![alt text](/image/72321272_2384129848571660_1293922433371209728_n.jpg)
+  
+  - Some images:
+    + 2 modes (Set RTC and set on/off times)
+    ![alt text](/image/72232460_2282617761864821_3378212397889093632_n.jpg)
