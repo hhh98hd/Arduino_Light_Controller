@@ -1,7 +1,7 @@
 # Arduino_Light_Controller
 By Hoang Huy Hoang, UET-VNU, Vietnam
 - Main features:
-  + Control of 1 220V-AC electric device (Here is a light bulb)
+  + Control 1(one) 220V-AC electric device (Here is a light bulb)
   + Display current time (hour, minute, day, month, year) and set times (**Vietnamese**)
   + Set time for the RTC in case it runs fast or slow via buttons and LCD
   + Set times for turning the device on / off (6 times) via buttons and LCD
